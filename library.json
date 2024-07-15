@@ -1,0 +1,24 @@
+[
+    {
+        "title": "Django 5 By Example",
+        "authors": [
+            "Antonio Mel\u00e9"
+        ],
+        "isbn": "1805125451",
+        "publishing_year": 2024,
+        "price": 39.98,
+        "quantity": 8,
+        "lent_to": null
+    },
+    {
+        "title": "Learn Python Programming",
+        "authors": [
+            "Fabrizio Romano"
+        ],
+        "isbn": "9781788996662",
+        "publishing_year": 2018,
+        "price": 20.5,
+        "quantity": 9,
+        "lent_to": "Joy"
+    }
+]
